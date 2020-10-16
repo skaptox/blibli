@@ -1,0 +1,2 @@
+https://www.static-src.com/frontend/static/js/c-sticky-navigator.09e5ed2d347a76de6261.js
+https://www.static-src.com/frontend/static/vendor/nr/v3/index.js
